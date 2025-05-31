@@ -1,0 +1,24 @@
+
+# Répertoires de build
+/build/
+x64/
+Release/
+Debug/
+
+# Fichiers Visual Studio
+*.sdf
+*.user
+*.VC.db
+*.opensdf
+*.obj
+*.pdb
+*.log
+
+# Binaires
+*.dll
+*.exe
+
+# Autres
+*.set
+*.cfg
+*.cache
